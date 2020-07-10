@@ -5,7 +5,7 @@
 
 
 epsilon = 0.01
-y = 6 #constant taken to the right of the given polynomial
+y = 6 #constant moved to the right of the given polynomial
 guess = y/2
 num_guesses = 0
 
